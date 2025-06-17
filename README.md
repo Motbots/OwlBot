@@ -60,3 +60,43 @@ Here, we add to our OwlBot prototype circuit the ability to make owl sounds usin
 * Testing What We’ve Done
 * Improving Sound Quality on the DFPlayer Pro
 * <a href="https://youtu.be/DLSxWn_sw-k?si=D45K4992JyC8iMPl" rel="noopener noreferrer nofollow" target="_blank">Video Build of the OwlBot: Part 2 – Making Sounds</a>
+
+### owlbot_part_3
+
+The Arduino code for <a href="https://github.com/Motbots/owlbot-remote/blob/main/owlbot_part-3/owlbot_part-3.ino" rel="noopener noreferrer nofollow" target="_blank">owlbot_part_3</a> is for Part 3 of the OwlBot project series.
+Here, we add to our OwlBot prototype the characteristic of having red LED eyes. In code, we get the Arduino to flash its red LED eyes when motion is detected by the PIR sensor we added in Part 1 of this build series.
+The following bullet-points show topics of discussion given in <a href="https://motbots.com/owlbot-part-3-flashing-red-led-eyes/" rel="noopener noreferrer nofollow" target="_blank">Part 3 of this OwlBot series on the Motbots website</a>:
+
+* Goal of Part 3 of the OwlBot Project
+* Flat Top Clear Lens Red LEDs
+* Parts List
+* Tools Used
+* Adding the LEDs to the Prototype
+* Programming the Arduino to Flash the LEDs
+* The Code Explained
+* Compiling and Uploading the Code to Arduino
+*  <a href="https://youtu.be/7eB6UiLbll4?si=xMIFs4B75650DUFA" rel="noopener noreferrer nofollow" target="_blank">Video Build of the OwlBot: Part 3 – Flashing Red LED Eyes</a>
+
+### owlbot_part_5
+
+The Arduino code for <a href="https://github.com/Motbots/owlbot-remote/blob/main/owlbot_part_5/owlbot_part_5.ino" rel="noopener noreferrer nofollow" target="_blank">owlbot_part_5</a> is for Part 5 of the OwlBot project series.
+Here, we add to our OwlBot prototype its ability to perform mechanical movement with the use of a DC motor and a couple of solenoids. The following bullet-points show topics of discussion given in
+<a href="https://motbots.com/owlbot-part-5-mechanical-movement/" rel="noopener noreferrer nofollow" target="_blank">Part 5 of this OwlBot series on the Motbots website</a>:
+
+* Goal of Part 5 of the OwlBot Project
+* Solenoids
+* DC Motor w/ Propeller
+* Parts List
+* Tools Used
+* Arduino Uno’s ATmega328P Absolute Max Ratings
+* Adding the Solenoids
+* Adding the DC Motor w/ Propeller
+* Solenoids and DC Motor Connections
+* Programming the Arduino to Activate the Solenoids and Spin the Motor
+* The Code Explained
+* Compiling and Uploading the Code to Arduino
+* <a href="https://youtu.be/BIOF-xTXSRM?si=6nCQOtiWt_tYTOxd" rel="noopener noreferrer nofollow" target="_blank">Video Build of the OwlBot: Part 5 – Mechanical Movement</a>
+
+## The OwlBot Project Series
+
+You may find The OwlBot Project Series, in its entirety at the <a href="https://motbots.com/the-owlbot-project/" rel="noopener noreferrer nofollow" target="_blank">Motbots website here.
