@@ -54,6 +54,8 @@ Here, we add to our OwlBot prototype circuit the ability to make owl sounds usin
 * Prototyping the Circuit
 * Soldering the Header Pins to the DFPlayer Pro
 * Connecting the DFPlayer Pro for Sound
+    - <a href="https://motbots.com/owlbot-part-2-making-sounds/#Step_7_%E2%80%93_Loading_an_MP3_File_Onto_the_DFPlayer_Pro" rel="noopener noreferrer nofollow" target="_blank">Loading an MP3 File Onto the DFPlayer Pro</a>
+      - <a href="https://freesound.org/people/CGEffex/sounds/92640/" rel="noopener noreferrer nofollow" target="_blank">MP3 file location</a> (Owl Sound)
 * Programming the Arduino to Make Sounds
 * The Code Explained
 * Compiling and Uploading the Code to Arduino
