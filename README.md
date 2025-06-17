@@ -8,8 +8,8 @@ the OwlBot should make owl sounds, perform varying movements, and flash its red 
 
 ## A Multi-Part Series
 
-As of writing this, the OwlBot is currently in its 5th part in this multi-part series for this project. There's a lot to do to create the OwlBot, so the process has been divided into certain tasks along the
-way on the Motbots website. Those individual tasks to develop the OwlBot are as follows:
+As of writing this, the OwlBot is currently in its 5th part in this multi-part series for this project. <strong><ins>Part 5 of this build series is the part where all of the code is complete for the OwlBot</ins>.</strong> Any parts after this
+are to finish the OwlBot as a whole. There's a lot to do to create the OwlBot, so the process has been divided into certain tasks along the way on the Motbots website. Those individual tasks to develop the OwlBot are as follows:
 
 * <strong>Motion Sensing</strong>
 * <strong>Making Sounds</strong>
