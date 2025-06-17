@@ -11,11 +11,11 @@ the OwlBot should make owl sounds, perform varying movements, and flash its red 
 As of writing this, the OwlBot is currently in its 5th part in this multi-part series for this project. There's a lot to do to create the OwlBot, so the process has been divided into certain tasks along the
 way on the Motbots website. Those individual tasks to develop the OwlBot are as follows:
 
-* Motion Sensing
-* Making Sounds
-* Flashing Red LED Eyes
-* Upgrading the Power Supply
-* Mechanical Movement
+* <strong>Motion Sensing</strong>
+* <strong>Making Sounds</strong>
+* <strong>Flashing Red LED Eyes</strong>
+* <strong>Upgrading the Power Supply</strong>
+* <strong>Mechanical Movement</strong>
 
 All of the OwlBot's functionality is controlled by an Arduino Uno. The code that has been provided here is for each part of the process of providing those certain tasks listed in the bullet-points above. You may observe
 the entire, detailed build process of this project on the Motbots page titled <a href="https://motbots.com/the-owlbot-project/" rel="noopener noreferrer nofollow" target="_blank"><em>The OwlBot Project Series</em></a>.
