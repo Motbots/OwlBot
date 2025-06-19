@@ -79,6 +79,18 @@ The following bullet-points show topics of discussion given in <a href="https://
 * Compiling and Uploading the Code to Arduino
 *  <a href="https://youtu.be/7eB6UiLbll4?si=xMIFs4B75650DUFA" rel="noopener noreferrer nofollow" target="_blank">Video Build of the OwlBot: Part 3 – Flashing Red LED Eyes</a>
 
+### No Code for Part 4
+
+There is no code for Part 4 of this project series. In Part 4 of the OwlBot project, we go over the power supply of our prototype circuit and learn how we can upgrade it to make sure that all our components and modules in our
+circuit function properly by having their correct supply voltages. The following bullet-points show topics of discussion given in
+<a href="https://motbots.com/owlbot-part-4-upgrading-the-power-supply/" rel="noopener noreferrer nofollow" target="_blank">Part 4 of this OwlBot series on the Motbots website</a>:
+
+* Power Supply Dilemma
+* Choosing a More Suitable Power Source
+* Forming a Common Ground
+* Connecting the Secondary Power Supply
+* <a href="https://youtu.be/7f1Q-0OhCE8?si=3w0HYCl59netleqQ" rel="noopener noreferrer nofollow" target="_blank">Video Build of the OwlBot: Part 4 – Upgrading the Power Supply</a>
+
 ### owlbot_part_5
 
 The Arduino code for <a href="https://github.com/Motbots/owlbot-remote/blob/main/owlbot_part_5/owlbot_part_5.ino" rel="noopener noreferrer nofollow" target="_blank">owlbot_part_5</a> is for Part 5 of the OwlBot project series.
