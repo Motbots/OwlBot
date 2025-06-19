@@ -1,3 +1,5 @@
+![GitHub_How to Make an OwlBot_The Bird Intimidator](https://github.com/user-attachments/assets/12b65bd0-b7c7-4c05-b714-d90b730b3096)
+
 # How to Make an OwlBot: The Bird Intimidator
 
 Welcome to the OwlBot project series! The OwlBot is a device that can be used as a bird intimidation tool to scare away pesky birds in the yard,
