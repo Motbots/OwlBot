@@ -115,10 +115,10 @@ Here, we add to our OwlBot prototype its ability to perform mechanical movement 
 
 ### No Code for Part 6 (Sections I & II)
 
-There is no code for either section of Part 6 of this project series. In Part 6 of the OwlBot project, we transfer our components from the breadboard prototype circuit, to the PCB. Part 6 was divided into two sections:
+There is no code for either section of Part 6 of this project series. In Part 6 of the OwlBot project, we transfer our components from the breadboard prototype circuit, to the PCB. Part 6 is divided into two sections:
 
-* Section I: Here we began the process of preparing the Arduino shield board for power, and we solder the MP3 player in place. We also transfered the resistors we used on our breadboard prototype circuit to the shield board, as well as made our own wire connectors for the red LED eyes of the OwlBot. You can find the entire process and instructions for <a href="https://motbots.com/owlbot-part-6-section-1-pcb-circuit-build/" rel="noopener noreferrer nofollow" target="_blank">Part 6, Section I of the OwlBot project on the Motbots website</a>.
-* Section II: This is where we finish up the process of transferring our components from the breadboard prototype circuit to our PCBs. We continue the process of making wire connectors and begin making connections for the speakers to the MP3 player. We use the help of a smaller PCB to hold all the components we used on the breadboard prototype circuit to control things like the solenoids and the DC motor.
+* Section I: Here we began the process of preparing the Arduino shield board for power, and we solder the MP3 player in place. We also transfer the resistors we used on our breadboard prototype circuit to the shield board, as well as make our own wire connectors for the red LED eyes of the OwlBot. You can find the entire process and instructions for <a href="https://motbots.com/owlbot-part-6-section-1-pcb-circuit-build/" rel="noopener noreferrer nofollow" target="_blank">Part 6, Section I of the OwlBot project on the Motbots website</a>.
+* Section II: This is where we finish up the process of transferring our components from the breadboard prototype circuit to our PCBs. We continue the process of making wire connectors and begin making connections for the speakers to the MP3 player. We use the help of a smaller PCB to hold all the components we used on the breadboard prototype circuit to control things like the solenoids and the DC motor. This section is where we finish up all the permanent wiring we need to have a working circuit for the OwlBot before we move on to placing all of our circuitry into the owl figure we will use as the body of the OwlBot.
 
 ## The OwlBot Project Series
 
